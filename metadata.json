@@ -1,0 +1,6 @@
+{
+  "name": "KIVO",
+  "description": "SGE AI-powered web search explorer and dynamic news feed widget.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
